@@ -1,5 +1,7 @@
 # No Code
 
+回首，掏，鬼刀一开，看不见，走位，走位，嘿嘿嘿，难受...
+
 <p align="center">
   <a href="https://github.com/yesvods/nocode/issues">
     <img src="https://img.shields.io/badge/license-WTF-brightgreen.svg">
